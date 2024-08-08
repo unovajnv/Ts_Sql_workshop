@@ -1,0 +1,19 @@
+{
+    "productList": [
+        {
+            "id": "123",
+            "productName": "Samsung G30",
+            "price": "23000"
+        },
+        {
+            "id": "125",
+            "productName": "Samsung G80",
+            "price": "23080"
+        },
+        {
+            "id": "127",
+            "productName": "Samsung G10",
+            "price": "23000"
+        }
+    ]
+}
