@@ -26,9 +26,9 @@ function DisplayProduct()
 {
     console.log("Updated List of Products  :");
     for (var i = 0; i < productList.length; i++) {
-        console.log("Product Name:", productList[i].id);
+        console.log("Product Id:", productList[i].id);
         console.log("Product Name:", productList[i].productName);
-        console.log("Product Name:", productList[i].price);
+        console.log("Product Price:", productList[i].price);
     }
 }
 DisplayProduct();

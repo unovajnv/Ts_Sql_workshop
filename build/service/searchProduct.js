@@ -24,9 +24,9 @@ if (check) {
 function DisplayProduct() {
     console.log("Updated List of Products  :");
     for (var i = 0; i < db_json_1.productList.length; i++) {
-        console.log("Product Name:", db_json_1.productList[i].id);
+        console.log("Product Id:", db_json_1.productList[i].id);
         console.log("Product Name:", db_json_1.productList[i].productName);
-        console.log("Product Name:", db_json_1.productList[i].price);
+        console.log("Product Price:", db_json_1.productList[i].price);
     }
 }
 DisplayProduct();
