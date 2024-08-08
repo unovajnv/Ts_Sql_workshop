@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.productList = void 0;
-const index_1 = require("./index");
+const index_1 = require("../model/index");
 const p1 = new index_1.Product(123, "Samsumg G30", 23000);
 const p2 = new index_1.Product(113, "Redmi Note 11 Pro", 29000);
 const p3 = new index_1.Product(143, "Poco 11+", 20000);

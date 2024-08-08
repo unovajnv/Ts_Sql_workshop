@@ -1,4 +1,4 @@
-import { Product } from "./index";
+import { Product } from "../model/index";
 const p1 = new Product(123, "Samsumg G30", 23000)
 const p2 = new Product(113, "Redmi Note 11 Pro", 29000)
 const p3 = new Product(143, "Poco 11+", 20000)
